@@ -7,3 +7,4 @@
 - [@Ste-Cy](https://github.com/Ste-Cy)
 - [@krimokiss](https://github.com/krimokiss)
 - [@Nicolas](https://github.com/Septume)
+- [@Enzomah42](https://github.com/enzom-a)
