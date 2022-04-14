@@ -1,3 +1,7 @@
 - [@Digifab-team](https://github.com/Digifab-team)
 - [@reda76](https://github.com/reda76)
+- [@adriengou](https://github.com/adriengou)
+- [@rick](shorturl.at/dfzPT)
+- [@Jeffrey](https://github.com/VaalJeef)
+- [@Sulayman74](https://github.com/Sulayman74)
 - [@Ste-Cy](https://github.com/Ste-Cy)
