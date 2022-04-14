@@ -9,4 +9,5 @@
 - [@Nicolas](https://github.com/Septume)
 - [@Enzomah42](https://github.com/enzom-a)
 - [@LuigiVampa21](https://github.com/LuigiVampa21)
+- [@fatiha74](https://github.com/fatiha74)
 - [@Audrey](https://github.com/AudreyCa)
