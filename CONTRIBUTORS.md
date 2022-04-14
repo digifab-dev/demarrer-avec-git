@@ -3,3 +3,5 @@
 - [@adriengou](https://github.com/adriengou)
 - [@rick](shorturl.at/dfzPT)
 - [@Jeffrey](https://github.com/VaalJeef)
+- [@Sulayman74](https://github.com/Sulayman74)
+
