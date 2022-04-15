@@ -1,2 +1,3 @@
 - [@Digifab-team](https://github.com/Digifab-team)
 - [@reda76](https://github.com/reda76)
+- [@Fouad](https://github.com/el-Sultan)
