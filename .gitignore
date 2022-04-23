@@ -1,0 +1,31 @@
+# Fichiers IDE
+.DS_Store
+.vscode
+.idea
+.iml
+.history
+
+# Dépendances
+node_modules
+start-here-guidelines
+start
+
+# Fichier journal
+.log
+
+# Fichiers de paquets
+.zip
+.gzip
+.tar.gz
+.rar
+
+# Fichier de classe compilé
+.class
+
+# Autres dossiers
+lib
+logs
+target
+out
+out
+gen

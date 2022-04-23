@@ -1,0 +1,21 @@
+# Nombre de jours d'inactivité avant qu'une issue ne devienne obsolète.
+daysUntilStale: 10
+# Nombre de jours d'inactivité avant la fermeture d'une issue obsolète.
+daysUntilClose: 10
+# Les questions portant ces étiquettes ne seront jamais considérées comme obsolètes.
+exemptLabels:
+  - pinned
+  - security
+# Label à utiliser pour marquer un problème comme étant obsolète.
+staleLabel: Stale
+# Commentaire à poster lorsqu'un problème est marqué comme obsolète. Définir à `false` pour le désactiver.
+markComment: >
+  Cette issue a été automatiquement marquée comme obsolète car elle n'a pas eu d'activité récente.
+  activité récente. Il sera fermé si aucune autre activité n'a lieu. Si votre PR présente un conflit
+  de fusion, il doit être résolu avant de pouvoir être fusionné. Nous vous remercions pour vos contributions.
+# Commentaire à poster lors de la fermeture d'une issue obsolètes. Définir à `false` pour le désactiver.
+closeComment: >
+  Cette issue a été automatiquement fermée car elle n'a pas eu d'activité récente. 
+  Si votre PR présente un conflit de fusion, il doit être résolu avant de pouvoir être fusionné.
+  N'hésitez pas à le résoudre et à le rouvrir.
+  Merci pour vos contributions.
