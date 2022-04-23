@@ -38,7 +38,7 @@ Nous ne sommes pas inquiets si vous cassez ce dépôt. C'est un terrain de jeu e
 
     ```bash
     git remote add upstream https://github.com/digifab-dev/demarrer-avec-git.git
-    git pull upstream master
+    git pull upstream main
     ```
 
     Si vous rencontrez un **merge conflict**, vous devez résoudre le conflit. Il existe de nombreux guides en ligne, vous pouvez aussi essayer celui de [opensource.com](https://opensource.com/article/20/4/git-merge-conflict).
@@ -79,7 +79,7 @@ Nous ne sommes pas inquiets si vous cassez ce dépôt. C'est un terrain de jeu e
 
 11. Attendez que l'un des mainteneurs fusionne votre demande de modification. S'il y a des conflits, vous recevrez une notification.
 
-12. Rejoignez un projet et commencez à contribuer ou à former vos propres groupes d'applications. Soyez audacieux et prenez plaisir à développer des projets ensemble ! [Consultez ce guide](https://github.com/digifab-dev/demarrer-avec-git/blob/master/Pour_bien_démarrer.md) pour plus d'informations sur la sélection d'un projet.
+12. Rejoignez un projet et commencez à contribuer ou à former vos propres groupes d'applications. Soyez audacieux et prenez plaisir à développer des projets ensemble ! [Consultez ce guide](https://github.com/digifab-dev/demarrer-avec-git/blob/main/Pour_bien_démarrer.md) pour plus d'informations sur la sélection d'un projet.
 
 13. Pour voir l'icône Digifab dans votre profil GitHub, [suivez ces étapes](https://help.github.com/articles/publicizing-or-hiding-organization-membership/) (vous devez effectuer les étapes 1 et 2 pour que cela fonctionne).
 
