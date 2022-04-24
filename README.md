@@ -81,7 +81,7 @@ Nous ne sommes pas inquiets si vous cassez ce dépôt. C'est un terrain de jeu e
 
 12. Rejoignez un projet et commencez à contribuer ou à former vos propres groupes d'applications. Soyez audacieux et prenez plaisir à développer des projets ensemble ! [Consultez ce guide](https://github.com/digifab-dev/demarrer-avec-git/blob/main/Pour_bien_démarrer.md) pour plus d'informations sur la sélection d'un projet.
 
-13. Pour voir l'icône Digifab dans votre profil GitHub, [suivez ces étapes](https://help.github.com/articles/publicizing-or-hiding-organization-membership/) (vous devez effectuer les étapes 1 et 2 pour que cela fonctionne).
+13. Pour voir l'icône Digifab dans votre profil GitHub, [inscrivez-vous ici](https://digifab-github.herokuapp.com/) puis [suivez ces étapes](https://help.github.com/articles/publicizing-or-hiding-organization-membership/) (vous devez effectuer les étapes 1 et 2 pour que cela fonctionne).
 
 ## Anatomie d'un projet open source
 
