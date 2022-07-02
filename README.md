@@ -12,7 +12,7 @@ Nous ne sommes pas inquiets si vous cassez ce dépôt. C'est un terrain de jeu e
 
 2. Sur la [page GitHub de ce dépôt](https://github.com/digifab-dev/demarrer-avec-git), cliquez sur le bouton "Fork".
 
-   ![Fork](https://help.github.com/assets/images/help/repository/fork_button.jpg)
+   ![Fork](https://docs.github.com/assets/cb-28613/images/help/repository/fork_button.png)
 
 3. Clonez _votre dépôt forké_ sur votre ordinateur :
 
